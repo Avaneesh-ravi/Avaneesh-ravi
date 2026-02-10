@@ -1,3 +1,4 @@
+<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,50:7928CA,100:FF0080&height=200&section=header&text=AVANEESH%20RAVI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20📱%20App%20Developer%20|%20🧠%20AI%20Enthusiast&descAlignY=55&descSize=16" />
 </p>
@@ -10,6 +11,52 @@
   <img src="https://img.shields.io/badge/💻_Focus-Web_Development-00FFFF?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/🇮🇳_Living-India-FF6600?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/🚀_Status-Solving_DSA-FF00FF?style=for-the-badge&labelColor=black" />
+</p>
+
+---
+
+## 🔥 Tech Arsenal 🔥
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-FF1493?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00FF00?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00FFFF?style=for-the-badge&logo=go&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-FF00FF?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-FF1493?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-00FF99?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-FF8C00?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-FF00FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-00FF00?style=for-the-badge&logo=greensock&logoColor=black"/>
+</p>
+
+### ⚙ Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-FF1493?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-00FFFF?style=for-the-badge&logo=express&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go%20Gin-FFD700?style=for-the-badge&logo=go&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-FF8C00?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-FF00FF?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-00FF00?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Socket.io-FF1493?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-00FFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-FF1493?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-00FF00?style=for-the-badge&logo=postman&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FF8C00?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -39,61 +86,32 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation"
-      src="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 ---
 
-## 🏆 Competitive Programming
+## ⚡ Competitive Programming
 <p align="center">
-  <a href="https://leetcode.com/u/Avaneesh-R/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Avaneesh-R?theme=dark&font=Baloo&ext=contest" height="180"/>
+  <a href="https://leetcode.com/u/Avaneesh-R/">
+    <img src="https://leetcard.jacoblin.cool/Avaneesh-R?theme=dark&font=Baloo&ext=contest" height="200"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/avaneeshravi4084" target="_blank">
+  <a href="https://www.hackerrank.com/profile/avaneeshravi4084">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avaneesh-ravi&theme=radical&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
-## 🛠️ Projects & Expertise
-- **TripTally / My Lorry App** – Logistics management platform  
-- **Studymate-AI** – AI-powered study companion  
-- **Electricity Prediction System** – AI + hardware renewable forecasting  
-- **Ledger** – Financial tracking system  
-- **2D Game Development** – Unity-based games  
-
----
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/avaneesh-ravi-7387062a6" target="_blank">
+  <a href="https://www.linkedin.com/in/avaneesh-ravi-7387062a6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:avaneeshravi4084@gmail.com">
