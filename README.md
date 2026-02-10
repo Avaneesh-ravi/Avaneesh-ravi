@@ -1,4 +1,3 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,50:7928CA,100:FF0080&height=200&section=header&text=AVANEESH%20RAVI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20📱%20App%20Developer%20|%20🧠%20AI%20Enthusiast&descAlignY=55&descSize=16" />
 </p>
@@ -18,79 +17,55 @@
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avaneesh-ravi&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
----
-
-## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&theme=github-compact&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-## ⚡ Competitive Programming
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HackerRank-Problem_Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Avaneesh-R/">
-    <img src="https://leetcard.jacoblin.cool/Avaneesh-R?theme=dark&font=Baloo&ext=contest" height="260"/>
-  </a>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
-### 📘 Studymate-AI
-**Python • AI • NLP**  
-AI-powered study companion for students.  
-🔗 https://github.com/Avaneesh-ravi/Studymate-ai
-
----
-
-### 📒 Ledger
-**Python • MySQL**  
-Personal finance and expense tracking system.  
-🔗 https://github.com/Avaneesh-ravi/ledger
-
----
-
-### 🚚 My Lorry App (TripTally)
-**Full Stack • Logistics**  
-Logistics management and tracking platform.  
-🔗 https://github.com/Avaneesh-ravi/my-lorry-app
-
----
-
-### ⚡ Electricity Prediction System
-**Machine Learning • Forecasting**  
-Electricity generation prediction using ML.  
-🔗 https://github.com/Avaneesh-ravi
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/Avaneesh-ravi/Studymate-ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avaneesh-ravi&repo=Studymate-ai&theme=radical&show_owner=true&border_radius=10" />
+        </a>
+      </div>
+      <p align="center"><b>📘 Studymate-AI</b><br>AI-powered study companion using NLP to assist students.</p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/Avaneesh-ravi/my-lorry-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avaneesh-ravi&repo=my-lorry-app&theme=radical&show_owner=true&border_radius=10" />
+        </a>
+      </div>
+      <p align="center"><b>🚚 TripTally / My Lorry App</b><br>Full-stack logistics platform for fleet management.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/Avaneesh-ravi/ledger">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avaneesh-ravi&repo=ledger&theme=radical&show_owner=true&border_radius=10" />
+        </a>
+      </div>
+      <p align="center"><b>📒 Ledger</b><br>Secure personal finance system built with Python and MySQL.</p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/Avaneesh-ravi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avaneesh-ravi&repo=Avaneesh-ravi&theme=radical&show_owner=true&border_radius=10" />
+        </a>
+      </div>
+      <p align="center"><b>⚡ Electricity Prediction</b><br>ML system for forecasting renewable energy generation.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,22 +73,12 @@ Electricity generation prediction using ML.
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,go,typescript"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript"/>
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,html,css,tailwind"/>
-</p>
-
-### ⚙ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,firebase,supabase"/>
-</p>
-
-### 🛠 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,git,github,vscode,unity"/>
 </p>
 
 ---
@@ -121,18 +86,16 @@ Electricity generation prediction using ML.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:avaneeshravi4084@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/avaneesh-ravi-7387062a6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Avaneesh-R/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/avaneeshravi4084">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
