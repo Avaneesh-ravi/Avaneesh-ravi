@@ -84,7 +84,67 @@
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📘 Studymate-AI</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-Next.js-00FFFF?style=for-the-badge&logo=nextdotjs&logoColor=black"/>
+          <img src="https://img.shields.io/badge/-AI-FF1493?style=for-the-badge"/>
+        </p>
+        <p align="center">AI-powered study companion to boost learning efficiency! 🧠</p>
+        <p align="center">
+          <a href="https://github.com/Avaneesh-ravi/Studymate-ai">
+            <img src="https://img.shields.io/badge/View_Project-FF6600?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">📒 Ledger</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-React-FF00FF?style=for-the-badge&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/-Supabase-00FFFF?style=for-the-badge&logo=supabase&logoColor=black"/>
+        </p>
+        <p align="center">Complete personal finance tracking system with real-time logs 💸</p>
+        <p align="center">
+          <a href="https://github.com/Avaneesh-ravi/ledger">
+            <img src="https://img.shields.io/badge/View_Project-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚚 My Lorry App (TripTally)</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-Node.js-FFD700?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+          <img src="https://img.shields.io/badge/-Logistics-FF1493?style=for-the-badge"/>
+        </p>
+        <p align="center">Scalable logistics platform for managing trips and expenses 🚛</p>
+        <p align="center">
+          <a href="https://github.com/Avaneesh-ravi/my-lorry-app">
+            <img src="https://img.shields.io/badge/View_Project-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🚀 More Coming Soon...</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-Innovation-FF6600?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/-Excellence-00FF00?style=for-the-badge"/>
+        </p>
+        <p align="center">Stay tuned for more amazing AI and Web projects! 🎯</p>
+        <p align="center">
+          <a href="https://github.com/Avaneesh-ravi?tab=repositories">
+            <img src="https://img.shields.io/badge/View_All-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
   🔥 Tech Arsenal 🔥
@@ -169,67 +229,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center">🚀 Featured Projects 🚀</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📘 Studymate-AI</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/-Next.js-00FFFF?style=for-the-badge&logo=nextdotjs&logoColor=black"/>
-          <img src="https://img.shields.io/badge/-AI-FF1493?style=for-the-badge"/>
-        </p>
-        <p align="center">AI-powered study companion to boost learning efficiency! 🧠</p>
-        <p align="center">
-          <a href="https://github.com/Avaneesh-ravi/Studymate-ai">
-            <img src="https://img.shields.io/badge/View_Project-FF6600?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📒 Ledger</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/-React-FF00FF?style=for-the-badge&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/-Supabase-00FFFF?style=for-the-badge&logo=supabase&logoColor=black"/>
-        </p>
-        <p align="center">Complete personal finance tracking system with real-time logs 💸</p>
-        <p align="center">
-          <a href="https://github.com/Avaneesh-ravi/ledger">
-            <img src="https://img.shields.io/badge/View_Project-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚚 My Lorry App (TripTally)</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/-Node.js-FFD700?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
-          <img src="https://img.shields.io/badge/-Logistics-FF1493?style=for-the-badge"/>
-        </p>
-        <p align="center">Scalable logistics platform for managing trips and expenses 🚛</p>
-        <p align="center">
-          <a href="https://github.com/Avaneesh-ravi/my-lorry-app">
-            <img src="https://img.shields.io/badge/View_Project-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🚀 More Coming Soon...</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/-Innovation-FF6600?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/-Excellence-00FF00?style=for-the-badge"/>
-        </p>
-        <p align="center">Stay tuned for more amazing AI and Web projects! 🎯</p>
-        <p align="center">
-          <a href="https://github.com/Avaneesh-ravi?tab=repositories">
-            <img src="https://img.shields.io/badge/View_All-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <h2 align="center">🎯 Current Focus 🎯</h2>
 <div align="center">
