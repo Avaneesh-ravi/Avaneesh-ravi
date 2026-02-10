@@ -52,11 +52,6 @@
 
 ## ⚡ Competitive Programming
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HackerRank-Problem_Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/Avaneesh-R/">
     <img src="https://leetcard.jacoblin.cool/Avaneesh-R?theme=dark&font=Baloo&ext=contest" height="260"/>
   </a>
@@ -66,60 +61,30 @@
 
 ## 🚀 Featured Projects
 
-### 📘 Studymate-AI
-**Python • AI • NLP**  
-AI-powered study companion for students.  
-🔗 https://github.com/Avaneesh-ravi/Studymate-ai
+<p align="center">
+  <a href="https://avaneesh-ravi.github.io" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/main/assets/featured-projects-preview.png"
+      alt="Featured Projects"
+      width="100%"
+    />
+  </a>
+</p>
 
----
-
-### 📒 Ledger
-**Python • MySQL**  
-Personal finance and expense tracking system.  
-🔗 https://github.com/Avaneesh-ravi/ledger
-
----
-
-### 🚚 My Lorry App (TripTally)
-**Full Stack • Logistics**  
-Logistics management and tracking platform.  
-🔗 https://github.com/Avaneesh-ravi/my-lorry-app
-
----
-
-### ⚡ Electricity Prediction System
-**Machine Learning • Forecasting**  
-Electricity generation prediction using ML.  
-🔗 https://github.com/Avaneesh-ravi
+<p align="center">
+  <strong>👆 Click to view my interactive Featured Projects</strong>
+</p>
 
 ---
 
 ## 🔥 Tech Arsenal 🔥
-
-### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,go,typescript"/>
-</p>
-
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,html,css,tailwind"/>
-</p>
-
-### ⚙ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,firebase,supabase"/>
-</p>
-
-### 🛠 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,go,typescript,react,nextjs,nodejs,mongodb,git,linux"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
   <a href="mailto:avaneeshravi4084@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -127,35 +92,11 @@ Electricity generation prediction using ML.
   <a href="https://www.linkedin.com/in/avaneesh-ravi-7387062a6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Avaneesh-R/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
   <a href="https://www.hackerrank.com/profile/avaneeshravi4084">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
----
-
-<p align="center">
-  <em>
-    “Perhaps the central problem we face in all of computer science  
-    is how we are to get to the situation where we build on top of the  
-    work of others rather than redoing so much of it in a trivially  
-    different way.”
-  </em>
-</p>
-
-<p align="center"><strong>— Richard Hamming</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20With-❤️-FF6EC7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Powered%20By-Coffee-6F4E37?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open-Source-00C853?style=for-the-badge"/>
-</p>
-
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&style=flat"/>
 </p>
-
-
