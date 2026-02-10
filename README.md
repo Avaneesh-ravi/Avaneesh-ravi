@@ -19,66 +19,45 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-FF1493?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00FF00?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Go-00FFFF?style=for-the-badge&logo=go&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-FF00FF?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,go,typescript" />
 </p>
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/React-FF1493?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-00FF99?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-FF8C00?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-FF00FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-00FF00?style=for-the-badge&logo=greensock&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,html,css,tailwind" />
 </p>
 
 ### ⚙ Backend & Database
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-FF1493?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-00FFFF?style=for-the-badge&logo=express&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Go%20Gin-FFD700?style=for-the-badge&logo=go&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-FF8C00?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-FF00FF?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-00FF00?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Socket.io-FF1493?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,firebase,supabase" />
 </p>
 
 ### 🛠 Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-00FFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-FF1493?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-00FF00?style=for-the-badge&logo=postman&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FF8C00?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avaneesh-ravi&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avaneesh-ravi&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&theme=github-compact&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&theme=github-compact&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -86,39 +65,90 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake.svg">
     <img src="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 ---
 
-## ⚡ Competitive Programming
+## ⚡ Competitive Programming ⚡
+
 <p align="center">
-  <a href="https://leetcode.com/u/Avaneesh-R/">
-    <img src="https://leetcard.jacoblin.cool/Avaneesh-R?theme=dark&font=Baloo&ext=contest" height="200"/>
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-TOP%209.78%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HackerRank-Problem_Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </p>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/avaneeshravi4084">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <a href="https://leetcode.com/u/Avaneesh-R/">
+    <img src="https://leetcard.jacoblin.cool/Avaneesh-R?theme=dark&font=Baloo&ext=contest" height="260"/>
   </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects 🚀
+
+### 🎵 Geethub-Serverside
+**Go • Gin • MongoDB**  
+High-performance music streaming backend ⚡  
+🔗 https://github.com/Avaneesh-ravi
+
+---
+
+### ♻️ Zero Waste
+**React • Node.js • MongoDB**  
+Role-based NGO donation platform (50+ donations) 🌍  
+🔗 https://github.com/Avaneesh-ravi
+
+---
+
+### ✈️ Return0 (Skylink 2)
+**React Native • Supabase • WebRTC**  
+Real-time in-flight communication system 🛫  
+🔗 https://github.com/Avaneesh-ravi
+
+---
+
+## 🌐 Connect With Me 🌐
+
 <p align="center">
+  <a href="mailto:avaneeshravi4084@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/avaneesh-ravi-7387062a6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:avaneeshravi4084@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://leetcode.com/u/Avaneesh-R/">
+    <img src="https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/avaneeshravi4084">
+    <img src="https://img.shields.io/badge/HackerRank-00FF7F?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
 </p>
 
+---
+
+<p align="center">
+  <em>
+    “Perhaps the central problem we face in all of computer science  
+    is how we are to get to the situation where we build on top of the  
+    work of others rather than redoing so much of it in a trivially  
+    different way.”
+  </em>
+</p>
+
+<p align="center"><strong>— Richard Hamming</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-❤️-FF6EC7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Powered%20By-Coffee-6F4E37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open-Source-00C853?style=for-the-badge"/>
+</p>
+
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
