@@ -3,10 +3,10 @@
 
 <!-- Animated Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=FF6EC7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%7C+DSA+%7C+Problem+Solver;Building+Scalable+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=FF6EC7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Scalable+Web+Apps;Full+Stack+Developer;DSA+%7C+AI+%7C+Problem+Solver" />
 </div>
 
-<!-- Info Badges -->
+<!-- Quick Info Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/🎓_Degree-B.E_CSD-FF1493?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/💻_Focus-Full_Stack-00FFFF?style=for-the-badge&labelColor=black" />
@@ -29,12 +29,13 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 👨‍💻 About Me
+<!-- About Me -->
+<h2 align="center">👨‍💻 About Me</h2>
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 **Education:** B.E Computer Science & Design  
-  **Kongu Engineering College** *(2023 – 2027)*
+  **Kongu Engineering College** *(2023–2027)*
 - 💻 **Role:** Full Stack Developer
 - 🧠 **Interests:** AI, Machine Learning, System Design
 - ⚡ **Competitive Programming:** LeetCode & HackerRank
@@ -46,7 +47,8 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🔥 Tech Arsenal 🔥
+<!-- Tech Stack -->
+<h2 align="center">🔥 Tech Arsenal 🔥</h2>
 
 <div align="center">
 
@@ -66,7 +68,8 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 📊 GitHub Analytics
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true"/>
@@ -79,7 +82,8 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🐍 Contribution Snake
+<!-- Snake -->
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -90,7 +94,8 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## ⚡ Competitive Programming
+<!-- Competitive Programming -->
+<h2 align="center">⚡ Competitive Programming</h2>
 
 <div align="center">
   <a href="https://leetcode.com/u/Avaneesh-R/">
@@ -103,76 +108,22 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🚀 Featured Projects 🚀
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📘 Studymate-AI</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/AI-FF1493?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/NLP-00FF00?style=for-the-badge"/>
-        </p>
-        <p align="center">AI-powered study companion 📚</p>
-        <p align="center">
-          <a href="https://github.com/Avaneesh-ravi/Studymate-ai">
-            <img src="https://img.shields.io/badge/View_Project-FF6600?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </td>
+- 📘 **Studymate-AI** – AI-powered study companion  
+  🔗 https://github.com/Avaneesh-ravi/Studymate-ai
 
-      <td width="50%">
-        <h3 align="center">📒 Ledger</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge"/>
-        </p>
-        <p align="center">Personal finance tracking 💰</p>
-        <p align="center">
-          <a href="https://github.com/Avaneesh-ravi/ledger">
-            <img src="https://img.shields.io/badge/View_Project-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-        </p>
-      </td>
-    </tr>
+- 📒 **Ledger** – Personal finance tracking system  
+  🔗 https://github.com/Avaneesh-ravi/ledger
 
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚚 My Lorry App</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Full_Stack-FF1493?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/Logistics-FFD700?style=for-the-badge"/>
-        </p>
-        <p align="center">Logistics management platform 🚛</p>
-        <p align="center">
-          <a href="https://github.com/Avaneesh-ravi/my-lorry-app">
-            <img src="https://img.shields.io/badge/View_Project-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </td>
-
-      <td width="50%">
-        <h3 align="center">⚡ Electricity Prediction</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Machine_Learning-00FF00?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge"/>
-        </p>
-        <p align="center">Electricity forecasting system ⚡</p>
-        <p align="center">
-          <a href="https://github.com/Avaneesh-ravi">
-            <img src="https://img.shields.io/badge/View_Project-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+- 🚚 **My Lorry App (TripTally)** – Logistics platform  
+  🔗 https://github.com/Avaneesh-ravi/my-lorry-app
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🌐 Connect With Me
+<!-- Connect -->
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="mailto:avaneeshravi4084@gmail.com">
@@ -181,6 +132,12 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
   <a href="https://www.linkedin.com/in/avaneesh-ravi-7387062a6">
     <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
 <br/>
