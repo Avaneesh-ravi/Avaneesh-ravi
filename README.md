@@ -59,7 +59,15 @@
 
 ## 🏆 Competitive Programming
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Avaneesh-ravi?theme=dark&font=Baloo&ext=contest" />
+  <a href="https://leetcode.com/u/Avaneesh-R/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Avaneesh-R?theme=dark&font=Baloo&ext=contest" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Avaneesh_R" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -94,10 +102,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/avaneesh-ravi-7387062a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:avaneeshravi4084@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
