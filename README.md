@@ -15,6 +15,28 @@
 
 ---
 
+## 👨‍💻 About Me
+
+Hi there! 👋  
+I’m **Avaneesh Ravi**, a passionate **Full Stack Developer** who enjoys building scalable applications and solving real-world problems through code.
+
+- 🎓 **Education:** B.E. Computer Science & Design @ **Kongu Engineering College** *(2023 – 2027)*
+- 🚀 Focused on **Full Stack Web Development**
+- 🧠 Interested in **AI, Machine Learning & System Design**
+- 💻 Actively solving **DSA & Competitive Programming**
+- 🌱 Always learning, building, and improving
+
+I believe in **clean code**, **practical solutions**, and **learning by doing**.  
+Open to collaboration and exciting opportunities!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/Avaneesh-ravi?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/Avaneesh-ravi?label=Stars&style=flat&color=blue" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true"/>
@@ -51,11 +73,6 @@
 ---
 
 ## ⚡ Competitive Programming
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HackerRank-Problem_Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</p>
-
 <p align="center">
   <a href="https://leetcode.com/u/Avaneesh-R/">
     <img src="https://leetcard.jacoblin.cool/Avaneesh-R?theme=dark&font=Baloo&ext=contest" height="260"/>
@@ -119,7 +136,6 @@ Electricity generation prediction using ML.
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
   <a href="mailto:avaneeshravi4084@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -148,13 +164,6 @@ Electricity generation prediction using ML.
 
 <p align="center"><strong>— Richard Hamming</strong></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20With-❤️-FF6EC7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Powered%20By-Coffee-6F4E37?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open-Source-00C853?style=for-the-badge"/>
-</p>
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-
