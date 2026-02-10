@@ -59,7 +59,7 @@
 
 ## 🏆 Competitive Programming
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Avaneesh-ravi&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/Avaneesh-ravi?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Avaneesh-ravi&theme=radical&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=Avaneesh-ravi&theme=radical&no-frame=true&row=2&column=4"
   />
 </p>
 
