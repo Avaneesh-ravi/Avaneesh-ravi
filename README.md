@@ -149,15 +149,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center">🐍 Contribution Snake 🐍</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="center">⚡ Competitive Programming ⚡</h2>
 <div align="center">
