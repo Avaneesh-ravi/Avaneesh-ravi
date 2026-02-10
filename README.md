@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=FF6EC7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%26+Next.js+Expert;Competitive+Programmer;Building+Scalable+Digital+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&duration=3000&pause=500&color=FF6EC7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%26+Next.js+Developer;Competitive+Programmer;Building+Scalable+Products" />
 </p>
 
 <p align="center">
@@ -16,29 +16,22 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Avaneesh-ravi&theme=radical&hide_border=true"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avaneesh-ravi&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&theme=github-compact&area=true&hide_border=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&theme=github-compact&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -60,12 +53,12 @@
 ## 🏆 Competitive Programming
 <p align="center">
   <a href="https://leetcode.com/u/Avaneesh-R/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Avaneesh-R?theme=dark&font=Baloo&ext=contest" />
+    <img src="https://leetcard.jacoblin.cool/Avaneesh-R?theme=dark&font=Baloo&ext=contest" height="180"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/Avaneesh_R" target="_blank">
+  <a href="https://www.hackerrank.com/profile/avaneeshravi4084" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
@@ -74,9 +67,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Avaneesh-ravi&theme=radical&no-frame=true&row=2&column=4"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Avaneesh-ravi&theme=radical&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
@@ -86,7 +77,7 @@
 - **Studymate-AI** – AI-powered study companion  
 - **Electricity Prediction System** – AI + hardware renewable forecasting  
 - **Ledger** – Financial tracking system  
-- **Game Development** – 2D games built using Unity  
+- **2D Game Development** – Unity-based games  
 
 ---
 
@@ -111,7 +102,5 @@
 </p>
 
 <p align="right">
-  <img
-    src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20views&color=0e75b6&style=flat"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
