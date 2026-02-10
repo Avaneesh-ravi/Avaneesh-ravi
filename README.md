@@ -3,7 +3,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=FF6EC7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Expert;Building+Digital+Solutions" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&rank_icon=github" alt="Avaneesh-ravi's GitHub stats" />
+  
+  <br/>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&theme=github-compact" alt="Avaneesh-ravi's Activity Graph" />
+</p>
 ### 🛠️ Projects I'm Working On
 * **TripTally / my-lorry-app**: A logistics management application.
 * **Studymate-ai**: An AI-powered study companion.
