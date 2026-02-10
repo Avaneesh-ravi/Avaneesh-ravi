@@ -16,19 +16,29 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&border_radius=10" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avaneesh-ravi&theme=radical&border_radius=10" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Avaneesh-ravi&theme=radical&hide_border=true"
+  />
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&theme=github-compact&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&theme=github-compact&area=true&hide_border=true"
+  />
 </p>
 
 ---
@@ -56,17 +66,19 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avaneesh-ravi&theme=radical&no-frame=true&row=1&column=6" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Avaneesh-ravi&theme=radical&no-frame=true&row=1&column=6"
+  />
 </p>
 
 ---
 
 ## 🛠️ Projects & Expertise
-- **[TripTally / My Lorry App](https://github.com/Avaneesh-ravi)** – Logistics management platform  
-- **[Studymate-AI](https://github.com/Avaneesh-ravi/Studymate-ai)** – AI-powered study companion  
+- **TripTally / My Lorry App** – Logistics management platform  
+- **Studymate-AI** – AI-powered study companion  
 - **Electricity Prediction System** – AI + hardware renewable forecasting  
-- **[Ledger](https://github.com/Avaneesh-ravi/ledger)** – Financial tracking system  
-- **Game Development** – 2D games using Unity  
+- **Ledger** – Financial tracking system  
+- **Game Development** – 2D games built using Unity  
 
 ---
 
@@ -91,5 +103,7 @@
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20views&color=0e75b6&style=flat" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20views&color=0e75b6&style=flat"
+  />
 </p>
