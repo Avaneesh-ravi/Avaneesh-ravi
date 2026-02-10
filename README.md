@@ -66,19 +66,31 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://avaneesh-ravi.github.io" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/main/assets/featured-projects-preview.png"
-      alt="Featured Projects Preview"
-      width="100%"
-    />
-  </a>
-</p>
+### 📘 Studymate-AI
+**Python • AI • NLP**  
+AI-powered study companion for students.  
+🔗 https://github.com/Avaneesh-ravi/Studymate-ai
 
-<p align="center">
-  <strong>👉 Click the image to view my interactive Featured Projects</strong>
-</p>
+---
+
+### 📒 Ledger
+**Python • MySQL**  
+Personal finance and expense tracking system.  
+🔗 https://github.com/Avaneesh-ravi/ledger
+
+---
+
+### 🚚 My Lorry App (TripTally)
+**Full Stack • Logistics**  
+Logistics management and tracking platform.  
+🔗 https://github.com/Avaneesh-ravi/my-lorry-app
+
+---
+
+### ⚡ Electricity Prediction System
+**Machine Learning • Forecasting**  
+Electricity generation prediction using ML.  
+🔗 https://github.com/Avaneesh-ravi
 
 ---
 
@@ -107,6 +119,7 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:avaneeshravi4084@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -144,3 +157,5 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+
+
