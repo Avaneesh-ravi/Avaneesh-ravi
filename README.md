@@ -68,14 +68,14 @@
 
 ### 📘 Studymate-AI
 **Python • AI • NLP**  
-AI-powered study companion.  
+AI-powered study companion for students.  
 🔗 https://github.com/Avaneesh-ravi/Studymate-ai
 
 ---
 
 ### 📒 Ledger
 **Python • MySQL**  
-Personal finance & expense tracking system.  
+Personal finance and expense tracking system.  
 🔗 https://github.com/Avaneesh-ravi/ledger
 
 ---
@@ -157,3 +157,4 @@ Electricity generation prediction using ML.
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Avaneesh-ravi&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+
