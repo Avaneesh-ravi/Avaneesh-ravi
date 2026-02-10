@@ -15,42 +15,17 @@
 
 ---
 
-## 🔥 Tech Arsenal 🔥
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,go,typescript" />
-</p>
-
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,html,css,tailwind" />
-</p>
-
-### ⚙ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,firebase,supabase" />
-</p>
-
-### 🛠 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avaneesh-ravi&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avaneesh-ravi&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -75,10 +50,9 @@
 
 ---
 
-## ⚡ Competitive Programming ⚡
-
+## ⚡ Competitive Programming
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-TOP%209.78%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   <img src="https://img.shields.io/badge/HackerRank-Problem_Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </p>
 
@@ -90,43 +64,74 @@
 
 ---
 
-## 🚀 Featured Projects 🚀
+## 🚀 Featured Projects
 
-### 🎵 Geethub-Serverside
-**Go • Gin • MongoDB**  
-High-performance music streaming backend ⚡  
+### 📘 Studymate-AI
+**Python • AI • NLP**  
+AI-powered study companion.  
+🔗 https://github.com/Avaneesh-ravi/Studymate-ai
+
+---
+
+### 📒 Ledger
+**Python • MySQL**  
+Personal finance & expense tracking system.  
+🔗 https://github.com/Avaneesh-ravi/ledger
+
+---
+
+### 🚚 My Lorry App (TripTally)
+**Full Stack • Logistics**  
+Logistics management and tracking platform.  
+🔗 https://github.com/Avaneesh-ravi/my-lorry-app
+
+---
+
+### ⚡ Electricity Prediction System
+**Machine Learning • Forecasting**  
+Electricity generation prediction using ML.  
 🔗 https://github.com/Avaneesh-ravi
 
 ---
 
-### ♻️ Zero Waste
-**React • Node.js • MongoDB**  
-Role-based NGO donation platform (50+ donations) 🌍  
-🔗 https://github.com/Avaneesh-ravi
+## 🔥 Tech Arsenal 🔥
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,go,typescript"/>
+</p>
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,html,css,tailwind"/>
+</p>
+
+### ⚙ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,firebase,supabase"/>
+</p>
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux"/>
+</p>
 
 ---
 
-### ✈️ Return0 (Skylink 2)
-**React Native • Supabase • WebRTC**  
-Real-time in-flight communication system 🛫  
-🔗 https://github.com/Avaneesh-ravi
-
----
-
-## 🌐 Connect With Me 🌐
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:avaneeshravi4084@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/avaneesh-ravi-7387062a6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Avaneesh-R/">
-    <img src="https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.hackerrank.com/profile/avaneeshravi4084">
-    <img src="https://img.shields.io/badge/HackerRank-00FF7F?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
