@@ -202,7 +202,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&custom_title=🔥%20Avaneesh's%20Contribution%20Graph%20🔥&bg_color=0D1117&color=FF1493&line=00FF00&point=FFD700&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&custom_title=Avaneesh%27s%20Contribution%20Graph&bg_color=0D1117&color=FF1493&line=00FF00&point=FFD700&area=true&hide_border=true" width="95%"/>
 </p>
 
 <p align="center">
