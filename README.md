@@ -84,6 +84,7 @@
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 <div align="center">
   <table>
@@ -145,6 +146,9 @@
     </tr>
   </table>
 </div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
   🔥 Tech Arsenal 🔥
@@ -209,7 +213,17 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-snake-dark.svg" width="95%"/>
+  </picture>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="center">⚡ Competitive Programming ⚡</h2>
 <div align="center">
@@ -228,8 +242,6 @@
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 
 <h2 align="center">🎯 Current Focus 🎯</h2>
 <div align="center">
@@ -290,4 +302,3 @@
 
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FFD700,100:00FF00&height=150&section=footer&animation=twinkling"/>
-
