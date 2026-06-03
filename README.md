@@ -205,9 +205,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avaneesh-ravi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="95%"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Commits-519-FF1493?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Repos-Public-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Languages-5+-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Grade-A+-FF6600?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Focus-Full_Stack-00FFFF?style=for-the-badge&logo=stackOverflow&logoColor=white&labelColor=0D1117"/>
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
