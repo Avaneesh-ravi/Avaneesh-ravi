@@ -199,9 +199,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FF6600&text_color=FFFFFF&custom_title=🔥+Avaneesh's+Streak+Stats" width="70%"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&custom_title=🔥%20Avaneesh's%20Contribution%20Graph%20🔥&bg_color=0D1117&color=FF1493&line=00FF00&point=FFD700&area=true&hide_border=true" width="95%"/>
@@ -216,11 +214,7 @@
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Avaneesh-ravi/Avaneesh-ravi/output/github-snake-dark.svg" width="95%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake animation"/>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
