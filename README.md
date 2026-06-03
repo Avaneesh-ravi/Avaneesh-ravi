@@ -200,7 +200,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Avaneesh-ravi&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=FFD700&fire=FF6600&currStreakLabel=00FF00&dates=FFFFFF" width="70%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FF6600&text_color=FFFFFF&custom_title=🔥+Avaneesh's+Streak+Stats" width="70%"/>
 </p>
 
 <p align="center">
