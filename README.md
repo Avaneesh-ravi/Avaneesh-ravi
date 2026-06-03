@@ -202,11 +202,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&custom_title=Avaneesh%27s%20Contribution%20Graph&bg_color=0D1117&color=FF1493&line=00FF00&point=FFD700&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaneesh-ravi&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avaneesh-ravi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Avaneesh-ravi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="95%"/>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
