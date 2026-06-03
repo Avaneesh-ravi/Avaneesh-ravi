@@ -194,8 +194,8 @@
 
 <p align="center">
   <a href="https://github.com/Avaneesh-ravi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00FF00&text_color=FFFFFF&ring_color=FFD700"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Avaneesh-ravi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00FF00&text_color=FFFFFF&ring_color=FFD700"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Avaneesh-ravi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF"/>
   </a>
 </p>
 
